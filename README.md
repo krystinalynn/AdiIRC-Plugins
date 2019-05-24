@@ -7,9 +7,9 @@ New plugins will be added as they are created and released for public use.
 
 ![Screenshot of DJ-Requests](https://github.com/krystinalynn/AdiIRC-Plugins/blob/master/Screenshot_DJ-Requests.png?raw=true)
 
-[Installation and Usage Instructions](https://github.com/krystinalynn/AdiIRC-Plugins/wiki/Plugin:-DJ-Requests)
+[Installation and Usage Instructions](https://github.com/krystinalynn/AdiIRC-Plugins/wiki/AdiIRC-Plugin:-DJ-Requests)
 
 ## OperTools
 * Tools for IRC Operators. This plugin won't work for normal users. 
 
-[Installation and Usage Instructions](https://github.com/krystinalynn/AdiIRC-Plugins/wiki/Plugin:-OperTools)
+[Installation and Usage Instructions](https://github.com/krystinalynn/AdiIRC-Plugins/wiki/AdiIRC-Plugin:-OperTools)
