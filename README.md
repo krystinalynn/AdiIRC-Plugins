@@ -13,3 +13,8 @@ New plugins will be added as they are created and released for public use.
 * Tools for IRC Operators. This plugin won't work for normal users. 
 
 [Installation and Usage Instructions](https://github.com/krystinalynn/AdiIRC-Plugins/wiki/AdiIRC-Plugin:-OperTools)
+
+## CService Login
+* A plugin to automatically log you into Undernet Channel Services, even with TOTP Enabled.
+
+[Installation and Usage Instructions](https://github.com/krystinalynn/AdiIRC-Plugins/wiki/AdiIRC-Plugin:-CService-Login)
