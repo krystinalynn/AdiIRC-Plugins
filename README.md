@@ -5,7 +5,7 @@ New plugins will be added as they are created and released for public use.
 ## DJ-Requests
 * Allows DJs to receive and process song requests in a managable environment. 
 
-![Screenshot of DJ-Requests](https://github.com/krystinalynn/AdiIRC-Plugins/blob/master/Screenshot_DJ-Requests.png?raw=true)
+![Screenshot of DJ-Requests](https://raw.githubusercontent.com/krystinalynn/AdiIRC-Plugins/master/Screenshots/Screenshot_DJ-Requests.png)
 
 [Installation and Usage Instructions](https://github.com/krystinalynn/AdiIRC-Plugins/wiki/AdiIRC-Plugin:-DJ-Requests)
 
@@ -16,5 +16,7 @@ New plugins will be added as they are created and released for public use.
 
 ## CService Login
 * A plugin to automatically log you into Undernet Channel Services, even with TOTP Enabled.
+
+![Screenshot of CService Login](https://raw.githubusercontent.com/krystinalynn/AdiIRC-Plugins/master/Screenshots/Screenshot_CServiceLogin.png)
 
 [Installation and Usage Instructions](https://github.com/krystinalynn/AdiIRC-Plugins/wiki/AdiIRC-Plugin:-CService-Login)
