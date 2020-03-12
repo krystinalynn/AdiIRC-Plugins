@@ -20,3 +20,10 @@ New plugins will be added as they are created and released for public use.
 ![Screenshot of CService Login](https://raw.githubusercontent.com/krystinalynn/AdiIRC-Plugins/master/Screenshots/Screenshot_CServiceLogin.png)
 
 [Installation and Usage Instructions](https://github.com/krystinalynn/AdiIRC-Plugins/wiki/AdiIRC-Plugin:-CService-Login)
+
+## IPTools (Hex2IP)
+* Performs conversions on IP addresses. 
+
+![Screenshot of IPTools](https://raw.githubusercontent.com/krystinalynn/AdiIRC-Plugins/master/Screenshots/Screenshot_HEX2IP.png)
+
+[Installation and Usage Instructions](https://github.com/krystinalynn/AdiIRC-Plugins/wiki/AdiIRC-Plugin:-IPTools)
